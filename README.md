@@ -38,3 +38,8 @@
 ###### Description : Teaches the basics of C++ to advanced topics like inheritance and polymorphism
 ###### Certificate Number : UC-0b855114-4ef1-ab8f-f6f440511aa1
 ###### Certficate URL : ude.my/UC-0b855114-4ef1-ab8f-f6f440511aa1    
+
+### Census Academy Achievements
+<p>
+  <img src = "data-gem-econ-abs-badge.pdf" width = 100 height = 100>
+</p>
