@@ -41,5 +41,21 @@
 
 ### Census Academy Achievements
 <p>
-  <img src = "cbb-economic-effects-of-disasters-badge.png" width = 100 height = 100>
+  <img src = "cbb-economic-effects-of-disasters-badge.png" width = 250 height = 250>
+</p>
+
+<p>
+  <img src = "business-research-badge.png" width = 250 height = 250>
+</p>
+
+<p>
+  <img src = "badge.png" width = 250 height = 250>
+</p>
+
+<p>
+  <img src = "data-gem-econ-abs-badge.avif" width = 250 height = 250>
+</p>
+
+<p>
+  <img src = "foreign-born-badge-th.jpg" width = 250 height = 250>
 </p>
