@@ -5,7 +5,7 @@
 ##### Name : Hadeed Ahmed Khan
 ##### Graduation Year : 2026
 ##### Major : Data Science
-##### Minor : Not Decided
+##### Minor : Finance
 
 
 ## Introduction
